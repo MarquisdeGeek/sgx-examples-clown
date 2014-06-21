@@ -1,0 +1,307 @@
+{"texture":[
+{
+  "attributes":{
+"mode":"col16a"
+}
+}
+,
+{"region":[
+{
+  "attributes":{
+"name":"front"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"584"
+,
+"v":"364"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"left in"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"64"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"left out"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"64"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"128"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"left hover"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"128"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"192"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"right in"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"192"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"256"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"right out"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"256"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"320"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"right hover"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"320"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"384"
+,
+"v":"445"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"button in"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"384"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"428"
+,
+"v":"385"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"button out"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"384"
+,
+"v":"384"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"428"
+,
+"v":"404"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"button hover"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"384"
+,
+"v":"403"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"428"
+,
+"v":"423"
+}
+}
+]}
+]}
+]}

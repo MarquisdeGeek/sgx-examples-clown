@@ -1,0 +1,1070 @@
+{"texture":[
+{
+  "attributes":{
+}
+}
+,
+{"stdregion":[
+{
+  "attributes":{
+"count":"7"
+,
+"width":"20"
+,
+"height":"20"
+,
+"units":"pixels"
+}
+}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r1"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"20"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"29"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"28"
+,
+"v":"19"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"85"
+,
+"v":"63"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r3"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"29"
+,
+"v":"63"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"100"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l1"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"173"
+,
+"v":"20"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"204"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"117"
+,
+"v":"19"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"173"
+,
+"v":"63"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l3"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"100"
+,
+"v":"63"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"173"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"clown"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"85"
+,
+"v":"173"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"B"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"83"
+,
+"v":"82"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"121"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"L"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"121"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"152"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"A"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"152"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"195"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"M"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"83"
+,
+"v":"123"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"136"
+,
+"v":"162"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"!"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"136"
+,
+"v":"123"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"156"
+,
+"v":"164"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"L_explode"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"140"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"160"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"R_explode"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"160"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"180"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off1"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"206"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"226"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"226"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"246"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off3"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"246"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"266"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off4"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"266"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"286"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off5"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"286"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"306"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off6"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"306"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"326"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"std_bomb_off7"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"326"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"346"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r1_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"204"
+,
+"v":"20"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"233"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r2_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"232"
+,
+"v":"19"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"289"
+,
+"v":"63"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r3_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"233"
+,
+"v":"63"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"304"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l1_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"377"
+,
+"v":"20"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"408"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l2_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"321"
+,
+"v":"19"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"377"
+,
+"v":"63"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"l3_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"304"
+,
+"v":"63"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"377"
+,
+"v":"83"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"clown_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"204"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"287"
+,
+"v":"173"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"B_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"287"
+,
+"v":"82"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"325"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"L_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"325"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"356"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"A_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"356"
+,
+"v":"83"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"399"
+,
+"v":"123"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"M_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"287"
+,
+"v":"123"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"340"
+,
+"v":"162"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"!_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"340"
+,
+"v":"123"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"360"
+,
+"v":"164"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"L_explode_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"344"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"364"
+,
+"v":"20"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"R_explode_off"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"364"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"384"
+,
+"v":"20"
+}
+}
+]}
+]}
+]}

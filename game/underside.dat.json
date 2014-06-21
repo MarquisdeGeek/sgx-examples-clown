@@ -1,0 +1,157 @@
+{"texture":[
+{
+  "attributes":{
+"mode":"col16a"
+}
+}
+,
+{"region":[
+{
+  "attributes":{
+"name":"back"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"584"
+,
+"v":"364"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"battery cover"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"111"
+,
+"v":"585"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"battery1"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"111"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"159"
+,
+"v":"537"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"battery2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"159"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"207"
+,
+"v":"537"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"battery cover_2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"262"
+,
+"v":"365"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"372"
+,
+"v":"585"
+}
+}
+]}
+]}
+]}
